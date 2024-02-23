@@ -39,6 +39,13 @@ pre code {
   padding-top: 140px !important;
 }
 
+details {
+  width: 620px;
+  background-color: #D3D3D3;
+  border: 4px #00c1d5;
+  border-style: solid;
+}
+
 
 /* ------------Links------------------ */
 
